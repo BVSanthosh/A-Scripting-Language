@@ -1,0 +1,47 @@
+cabal-version:      2.4
+name:               ScriptLanguage
+version:            0.1.0.0
+synopsis:
+
+-- A longer description of the package.
+-- description:
+homepage:
+
+-- A URL where users can report bugs.
+-- bug-reports:
+license:            NONE
+author:
+maintainer:
+
+-- A copyright notice.
+-- copyright:
+category:           Game
+extra-source-files: CHANGELOG.md
+
+executable ScriptLanguage
+    main-is:          Main.hs
+
+    -- Modules included in this executable, other than Main.
+    other-modules:  Expr, REPL, Tree, Outcome, Parsing
+    
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.14.3.0, haskeline ^>=0.8.2, QuickCheck ^>=2.14.2, text ^>=1.2.4.1, transformers ^>=0.5.6.2
+    hs-source-dirs:   app
+    default-language: Haskell2010
+    ghc-options : -Wno-missing-methods
+
+executable Tests
+    main-is:          Tests.hs
+
+    -- Modules included in this executable, other than Main.
+    other-modules:  Expr, REPL, Tree, Outcome, Parsing
+    
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:    base ^>=4.14.3.0, haskeline ^>=0.8.2, QuickCheck ^>=2.14.2, text ^>=1.2.4.1, transformers ^>=0.5.6.2, directory
+    hs-source-dirs:   app
+    default-language: Haskell2010
+    ghc-options : -Wno-missing-methods

@@ -1,0 +1,100 @@
+quit
+quit
+quit
+quit
+print ( xero )quit
+quit
+print ( xero )
+xero = 20
+read test.txt
+quit
+read test.txt
+read test.txt
+quit
+read test.txt
+quit
+read test.txt
+quit
+read app/test.txt
+quit
+read app/test.txt
+read test.txt
+read "test.txt"
+quit
+read "test.txt"
+read "test.txt"
+read "test.txt"
+read test.txt
+quit
+print (pi 3+3.33)
+pi 3+3.33
+print (4*5/6)
+print (4*5/6)
+print (3+4*5/6)
+3+4*5/6
+print (pi 3+3.33)
+pi 3+3.33
+print (4*5/6)
+4*5/6
+print (pi 3 + 4 * 5/6)
+print (pi 3 + 4 *5)
+print (pi 3 +4)
+print (pi 3+4)
+print (pi 3)
+pi 3
+pi3+4*5/6
+pi 3+4*5/6
+pi 3+4*5/6)
+x=pi 3+4*5/6)
+print (x=pi 3+4*5/6)
+a
+x=20
+allo = 20
+y=20
+z=20
+z=20
+allo = 20
+y=20
+x=20
+quit
+y=20
+x=20
+allo = 20
+x=20
+allo = 20
+allo = 20
+quit
+x =20
+allo = 20
+quit
+allo = 20
+quit
+allo = 2
+x =20
+quit
+print ln "test"
+print ln 3
+print pi "te"
+print pi 3
+print fac 0-120
+print fac 0
+print fac 1
+print fac 2
+print fac 3
+print fac "te"
+print fac 5
+print fac 
+print fact 5
+print mod 5 "tes"
+print abs -"test"
+print abs -3.4
+print abs 3.4
+print mod 5 3
+print mod 5 5
+print mod 5 2
+print mod 5
+print 5 // 2
+print 5 MOD 2
+print 5 mod 2
+print 5%2
+print 5 % 2
